@@ -1,4 +1,4 @@
-# 
+# Enhance Little Snitch for macOS with rare Little Snitch for macOS Validator | safe-browsing + system-optimization, the #1 validator. Includes safe-browsing and system-optimization
 
 
 
